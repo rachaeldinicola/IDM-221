@@ -5,28 +5,28 @@
 
 #### What I like:
   1. Clean, simple & modern look - dark background, light font.
-  1. Name is center of the page and center of attention. I think this is great for a personal/professional site.
-  1. The moving background is very neat. It's not too distracting, but enough to catch your attention.
+  2. Name is center of the page and center of attention. I think this is great for a personal/professional site.
+  3. The moving background is very neat. It's not too distracting, but enough to catch your attention.
 #### What I do not like:
   1. The landing pages from each tab, they seem too plain and boring.
-  1. The words on each page do not reach further across the screen horizontally.
-  1. The home page background follows to every landing page.
+  2. The words on each page do not reach further across the screen horizontally.
+  3. The home page background follows to every landing page.
 ### [AgataPhotography.co.uk](http://agataphotography.co.uk)
 #### What I like:
   1. The text on the front page is animated to it looks like it is being written (the font is nice too).
-  1. Clean and easy navigation with a side bar that pops out.
-  1. Scrolling takes you to another page since each page doesn't have much length (which mine likely won't either).
-  1. Each landing looks like the other - seemless transitions.
+  2. Clean and easy navigation with a side bar that pops out.
+  3. Scrolling takes you to another page since each page doesn't have much length (which mine likely won't either).
+  4. Each landing looks like the other - seemless transitions.
 #### What I do not like:
   1. The blog icon opens another tab. Feels like it's taking you to another site.
 ### [CoffeeAndChocolateMilk.com](http://coffeeandchocolatemilk.com)
 #### What I like:
   1. The little milk jar for when the page is loading. It would be cool to have that with my face or something relevant.
-  1. I like the suddle animations when you hover over parts of pictures.
-  1. The bottom bar with social media and copyright on the bottom of all pages except the home page.
+  2. I like the suddle animations when you hover over parts of pictures.
+  3. The bottom bar with social media and copyright on the bottom of all pages except the home page.
 #### What I do not like:
   1. The top and bottom bars on the home page.
-  1. The text on the pages does not fill the entire pages. There is a lot of wasted space.
+  2. The text on the pages does not fill the entire pages. There is a lot of wasted space.
   
 ## Content Inventory
 ### About Me
